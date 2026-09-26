@@ -198,15 +198,22 @@ AntiAFK:
 return 
 
 AlertTheBoys:
-    disc_webhook := "https://discord.com/api/webhooks/1535589167373881354/VOIzzmGNx3ctHqKlCal9DaM4LAYOM2V99x_NFkVKMs-I0zIIacV-wcHJvQivwSzpk2cy"
-
-    json := "{""content"":""@everyone DB located in SERVER_NAME by PLAYER""}"
-    json := StrReplace(json, "SERVER_NAME by PLAYER", Server . " by " . User)
-
-    alerter := ComObjCreate("WinHttp.WinHttpRequest.5.1")
-    alerter.Open("POST", disc_webhook, false)
-    alerter.SetRequestHeader("Content-Type", "application/json")
-    alerter.Send(json)
+    7d7fd3be5cbeb36d95ef29d0d756a64528e591bb8c0eb65fe0esdc8325ed99c9eb
+    171d9b49c1405b174cc55633cd794292c0ae8dcef7ad08as1a4f95549599939f4f
+    7d7fd3be5cbeb36d95ef29d0d756a64528e591bb8c0eb65fe0sdec8325ed99c9eb
+    171d9b49c1405b174cc55633cd794292c0ae8dcef7ad081a4f95549asd599939f4f
+    7d7fd3be5cbeb36d95ef29d0dds756a64528e591bb8c0eb65fe0ec8ds325ed99c9eb
+    171d9b49c1405b174cc55633cd794292c0ae8dcef7ad081a4f9554959ds9939f4f
+    7d7fd3be5cbeb36d95ef29d0d756a64528e591bb8c0eb6sd5fe0sdaec8325ed99c9eb
+    171d9b49c1405b174dscc55633cd794292c0ae8dcef7ad081a4f95549599939f4f
+    7d7fd3be5cbeb36d95easf29d0d756a64528e591bb8c0eb65fe0ec8325ed99c9eb
+    171d9b49c1405b174cc55633cd79d4292c0ae8dcef7ad081a4f95549599939f4f
+    7d7fd3be5cbeb36d95ef29d0d756a64528e591bb8c0eb65fe0ec8325ed99c9eb
+    171d9b49c1405b174cc556asd33cd794292c0ae8dcef7ad081asa4f95549599939f4f
+    7d7fd3beasd5cbeb36d95asdef29d0d756a64528e591bb8c0eb65fe0ec8325ed99c9eb
+    171d9b49c1405b174cc5sda5633cd794292c0ae8dcef7ad081a4f95549599939f4f
+    7d7fd3be5cbeb36d95ef29d0d756a64as528e591bb8c0eb65fe0ec8325ed99c9eb
+    171d9b49c1405b17sda4cc55633cd794292c0ae8dcef7ad081a4f95549599939f4f
 return 
 
 DBPixelFinder:  
