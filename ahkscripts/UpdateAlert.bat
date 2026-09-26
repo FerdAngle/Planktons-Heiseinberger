@@ -8,6 +8,7 @@ if [%1]==[] (
     exit
 )
 
+REM - should a failcheck be added in the future?
 REM - no point in passing directory params since the folder structure is rigid. 
 set "ZIP_URL=%1"
 set "WORK_DIR=%~dp0"
