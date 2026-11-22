@@ -1,4 +1,4 @@
-# DB-Alerter
+# Planktons-Heiseinberger
 <a name="installation"><h2>⬇️ Installation</h2></a>
 <div align="center">
 <picture> 
